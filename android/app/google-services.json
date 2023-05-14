@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "875041317151",
+    "project_id": "database-project-19a31",
+    "storage_bucket": "database-project-19a31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875041317151:android:73f174694377d0dd5c502a",
+        "android_client_info": {
+          "package_name": "com.example.start"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875041317151-4c5suli69b5ng5i74a9040hquc8kin9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHciDeE1V38wKYLmjFh57xicQw2xc4vq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875041317151-4c5suli69b5ng5i74a9040hquc8kin9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875041317151:android:eefb8d57591342015c502a",
+        "android_client_info": {
+          "package_name": "com.example.wedding_orgnaizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875041317151-4c5suli69b5ng5i74a9040hquc8kin9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHciDeE1V38wKYLmjFh57xicQw2xc4vq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875041317151-4c5suli69b5ng5i74a9040hquc8kin9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
